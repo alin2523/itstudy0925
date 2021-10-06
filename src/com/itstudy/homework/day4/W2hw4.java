@@ -2,7 +2,7 @@ package com.itstudy.homework.day4;
 
 import java.util.Scanner;
 
-public class W4hw4 {
+public class W2hw4 {
     public static void main(String[] args) {
 
         String[] shengxiao = {"鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"};
