@@ -1,4 +1,4 @@
-package com.itstudy.homework.oct24;
+package com.itstudy.homework.oct24.test;
 
 import java.util.ArrayList;
 import java.util.List;
