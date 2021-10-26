@@ -1,5 +1,6 @@
 package com.itstudy.homework.day4;
 
+
 import java.util.Scanner;
 
 public class W2hw1 {
